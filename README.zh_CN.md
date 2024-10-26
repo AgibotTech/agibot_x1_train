@@ -1,4 +1,4 @@
-[English](README.md) | 中文 | [日本語](README.ja.md)
+[English](README.md) | 中文 | [日本語](README.ja_JP.md)
 
 ## 简介
 [智元灵犀X1](https://www.zhiyuan-robot.com/qzproduct/169.html) 是由智元研发并开源的模块化、高自由度人形机器人，X1的软件系统基于智元开源组件 `AimRT` 作为中间件实现，并且采用强化学习方法进行运动控制。
